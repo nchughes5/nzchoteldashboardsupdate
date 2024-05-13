@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "Marriott_Dashboards_Migration_YUA",
+  "name": "NZC_Hotel_Dashboards_YUA",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "58.0"
